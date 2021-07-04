@@ -891,7 +891,7 @@ command:
       inform:
       - '&4Alert******** &6[name] &cjust logged in! &4*******Alert'
       reason: '&8&l(&4&l☁&8&l) &7Alert reason: &6[reason]'
-      removed: '&8&l(&a&l☁&8&l) &7[playerDisplayName] &eremoved from alert list'
+      removed: '&8&l(&a&l☁&8&l) &7[playerDisplayName] &7removed from alert list'
       added: '&8&l(&a&l☁&8&l) &7An alert message will be sent to all administrators if &6[playerDisplayName]
         &7join''s in the next 24Hours'
       online: '&8&l(&c&l☁&8&l) &7[playerDisplayName] &7is already online'
